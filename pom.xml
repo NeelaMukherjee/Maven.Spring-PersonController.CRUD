@@ -5,7 +5,7 @@
 
 	<groupId>io.zipcoder</groupId>
 	<artifactId>crud-app-starter</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT</version>	
 	<packaging>jar</packaging>
 
 	<name>crud-app-starter</name>
